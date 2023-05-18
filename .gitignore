@@ -17,3 +17,4 @@ __pycache__/
 *.geo
 *.mat
 .jupyter/desktop-settings.json
+.vscode/
