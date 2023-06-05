@@ -18,3 +18,5 @@ __pycache__/
 *.mat
 .jupyter/desktop-settings.json
 .vscode/
+.jupyter/
+.virtual_documents/
